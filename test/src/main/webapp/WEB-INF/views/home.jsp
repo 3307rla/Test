@@ -45,7 +45,7 @@
       			<a href="/" class="mb-3 me-2 mb-md-0 text-muted text-decoration-none lh-1">
         			<svg class="bi" width="30" height="24"><use xlink:href="#bootstrap"/></svg>
       			</a>
-      			<span class="text-muted">&copy; 2022 Company, Inc</span>
+      			<span class="text-muted">&copy; 2022 Pave the way, Inc</span>
     		</div>
 
     		<ul class="nav col-md-4 justify-content-end list-unstyled d-flex">
